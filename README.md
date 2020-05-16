@@ -1,6 +1,8 @@
 # FacebookLoginAutomator
-#written by Arun Mathai S.K.
+
 Simple Facebook Login Automator Using Selenium
+
+Written by Arun Mathai S.K.
 
 Note:
 
